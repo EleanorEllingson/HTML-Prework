@@ -1,6 +1,6 @@
 <h1>This is your first HTML page!</h1>
 <strong>Seems like things are going pretty well so far</strong>
-<small>Let's add a recipe for some delicious chocolate chip cookies</small>
+<p><small>Let's add a recipe for some delicious chocolate chip cookies</small></p>
 <p>We're going to borrow a nice picture from General Mills</p>
 <img src="https://render.fineartamerica.com/images/rendered/default/print/6/8/break/images/artworkimages/medium/2/single-chocolate-chip-cookie-burazin.jpg" alt="cookies">
 <p>Here is what the recipe calls for</p>
