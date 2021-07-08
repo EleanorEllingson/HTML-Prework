@@ -1,0 +1,27 @@
+<h1>This is your first HTML page!</h1>
+<strong>Seems like things are going pretty well so far</strong>
+<small>Let's add a recipe for some delicious chocolate chip cookies</small>
+<p>We're going to borrow a nice picture from General Mills</p>
+<img src="https://render.fineartamerica.com/images/rendered/default/print/6/8/break/images/artworkimages/medium/2/single-chocolate-chip-cookie-burazin.jpg" alt="cookies">
+<p>Here is what the recipe calls for</p>
+
+<ul>
+    <h3><strong>Ingredients</strong><small>(probably not right...)</small></h3>
+    <li>6 Eggs</li>
+    <li>2 C Flour</li>
+    <li>2 T Vanilla Extract</li>
+    <li>2 t Baking Powder</li>
+    <li>1 C Sugar</li>
+</ul>
+<ol>
+    <h3><strong>Instructions</strong><small>(may or may not be correct)</small></h3>
+    <li>Add eggs, flour and vanilla extract and mix</li>
+    <li>Combine with sugar and baking powder and stir</li>
+    <li>Eat half the cookie batter because it is delicious</li>
+    <li>Take the rest of the cookie batter and make cookies</li>
+    <li>Bake at 350 for 25 minutes</li>
+    <li>Enjoy!</li>
+</ol>
+<hr>
+<p>Oh you don't trust us? You want to see the actual recipe? You can view it right <a href="https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/">Here</a></p>
+
